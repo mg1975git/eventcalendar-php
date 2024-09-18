@@ -44,4 +44,5 @@ Licensed under the MIT license
 Did you like my project? Hit star button!<br/>
 Donate with PayPal <a href="https://www.paypal.com/donate/?business=WY533CP7VDC24&no_recurring=1&item_name=I+will+dedicate+more+time+and+resources+to+improving+and+maintaining+this+work.&currency_code=EUR" target="_balnk">here</a><br/>
 Contact me for collaborations.<br/><br/>
-Thank you.
+Thank you.<br/>
+![1login](https://github.com/user-attachments/assets/55e5568a-89ed-4554-b7fb-e795f95896d4)
