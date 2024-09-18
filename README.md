@@ -45,4 +45,6 @@ Did you like my project? Hit star button!<br/>
 Donate with PayPal <a href="https://www.paypal.com/donate/?business=WY533CP7VDC24&no_recurring=1&item_name=I+will+dedicate+more+time+and+resources+to+improving+and+maintaining+this+work.&currency_code=EUR" target="_balnk">here</a><br/>
 Contact me for collaborations.<br/><br/>
 Thank you.<br/>
-![1login](https://github.com/user-attachments/assets/55e5568a-89ed-4554-b7fb-e795f95896d4)
+<img src="https://github.com/user-attachments/assets/55e5568a-89ed-4554-b7fb-e795f95896d4" alt="preview" style="max-width: 100%;"><br/>
+<img src="https://github.com/user-attachments/assets/1e9de6a5-889f-4f23-bbf1-fc8cdba3aeaa" alt="preview" style="max-width: 100%;"><br/>
+<img src="https://github.com/user-attachments/assets/f49e820d-3bab-4683-a45b-29349cbb7b36" alt="preview" style="max-width: 100%;">
