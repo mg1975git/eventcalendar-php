@@ -1,0 +1,103 @@
+.card-body {
+    padding: 0.5em;
+}
+.utente-info {
+    text-align: right;
+}
+.evento-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 0.2em;
+}
+.giorno {
+    /*cursor: pointer;*/
+    text-align: center;
+    font-weight: bold;
+    width: 21px; 
+    height: 20px;
+}
+.cambia-colore {
+    background-color: #c7c7cc; 
+}
+.numero-mese {
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    width: 20px; 
+    height: 20px;
+}
+.link-mese {
+    text-decoration: underline;
+    cursor: pointer;
+    color: blue;
+}
+.colored-day {
+    background-color: rgb(51, 157, 243);
+    color: white;
+    cursor: pointer;
+    border-radius: 40%;
+    
+    width: 20px; 
+    height: 20px;
+    display: inline-block;   /* Per rendere circolari e allineati in linea */
+     /*text-align: center; /* Per centrare il contenuto all'interno del cerchio */
+    /*line-height: 30px; */ /* Per centrare verticalmente il contenuto */
+}
+.slot {
+    border: 1px solid #ccc;
+    padding: 5px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s; 
+}
+.slot:hover {
+    background-color: #f2f2f2; 
+}
+.anno-header {
+    /* display: flex;*/
+    justify-content: space-between;
+    align-items: center;
+}
+.nome-mese {
+    /*font-size: 18px;*/
+    font-size: 0.8em;
+    text-align: center;
+}
+.nome-mese-old {
+    /*font-size: 18px;*/
+    font-size: 0.8em;
+    text-align: center;
+    background-color: lightgray;
+}
+.login-container {
+    justify-content: center;
+    align-items: center;
+    /*height: 100vh;*/
+    max-width: 400px;
+}
+.login-container-register {
+    max-width: 600px;
+    justify-content: center;
+    align-items: center;
+}
+.evento-lista {
+    cursor: pointer;
+}
+.evento-dettaglio {
+    display: none;
+    padding-bottom: 1em;
+}
+.evento-note {
+    border-top-style: solid;
+    padding-top: 1em;
+    border-top-width: 1px;
+    display: none;
+}
+.btn-icon-normal {
+    padding: 0.2em;
+    /*color: red;*/
+}
+.btn-icon-danger {
+    padding: 0.2em;
+    color: red;
+}
